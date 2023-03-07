@@ -1,4 +1,6 @@
+{% comment %} to install the pageges {% endcomment %}
 flask
 flask_cors
 requests
 bs4
+pymongo
